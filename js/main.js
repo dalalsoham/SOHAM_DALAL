@@ -26,7 +26,6 @@ window.addEventListener("load", () => {
       "Engineer",
       "UG at Academy Of Technology",
       "Developer",
-      "Designer",
       "Open-Source Enthusiast",
       "Blog Writer",
     ],
